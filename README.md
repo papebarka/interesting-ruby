@@ -15,6 +15,12 @@ Repository listing interesting ruby tools for developers
 
 -[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
 
+### CMS
+-[FAE CMS](https://github.com/wearefine/fae) - Content Management System (CMS) for Rails.
+
+### E-Commerce
+-[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
+
 ### Charts
 -[ApexCharts](https://github.com/styd/apexcharts.rb) - Beautiful and interactive charts for your Rails application powered by ApexCharts.JS
 
