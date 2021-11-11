@@ -20,6 +20,7 @@ Repository listing interesting ruby tools for developers
 
 ### E-Commerce
 -[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
+
 -[Cartman](https://github.com/willcosgrove/cartman) - Framework agnostic and Redis-backed cart system.
 
 ### Charts
