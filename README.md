@@ -18,6 +18,13 @@ Repository listing interesting ruby tools for developers
 ### CMS
 -[FAE CMS](https://github.com/wearefine/fae) - Content Management System (CMS) for Rails.
 
+-[Locomotive CMS](https://www.locomotivecms.com/)
+
+-[Refinery CMS](https://www.refinerycms.com/)
+
+-[Spina CMS](https://spinacms.com/)
+
+
 ### E-Commerce
 -[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
 
