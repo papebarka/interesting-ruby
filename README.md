@@ -45,5 +45,7 @@ Repository listing interesting ruby tools for developers
 
 -[Grover](https://https://github.com/Studiosity/grover) - A Ruby Gem to transform HTML into PDFs, PNGs or JPEGs using Puppeteer/Chromium.
 
+-[Puppeteer](https://github.com/YusukeIwaki/puppeteer-ruby) - Puppeteer port in Ruby
+
 ## Websites
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
