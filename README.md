@@ -41,6 +41,9 @@ Repository listing interesting ruby tools for developers
 -[ApexCharts](https://github.com/styd/apexcharts.rb) - Beautiful and interactive charts for your Rails application powered by ApexCharts.JS
 
 
+### PDF Tools
+
+-[Grover](https://https://github.com/Studiosity/grover) - A Ruby Gem to transform HTML into PDFs, PNGs or JPEGs using Puppeteer/Chromium.
 
 ## Websites
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
