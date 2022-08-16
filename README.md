@@ -8,6 +8,8 @@ Repository listing interesting ruby tools for developers
 
 -[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers.
 
+-[Clearance](https://github.com/thoughtbot/clearance)
+
 ### Roles
 
 -[Rolify](https://github.com/RolifyCommunity/rolify)
