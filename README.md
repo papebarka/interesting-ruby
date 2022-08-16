@@ -3,7 +3,21 @@
 Repository listing interesting ruby tools for developers
 
 ## Gems
+
+### Authentication
+
 -[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers.
+
+### Roles
+
+-[Rolify](https://github.com/RolifyCommunity/rolify)
+
+### Authorization
+
+-[CanCanCan](https://github.com/CanCanCommunity/cancancan)
+
+-[Pundit](https://github.com/varvet/pundit)
+
 
 -[Pagy](https://github.com/ddnexus/pagy) - Efficient and lightweight pagination gem.
 
