@@ -44,6 +44,10 @@ Repository listing interesting ruby tools for developers
 
 -[Avo](https://avohq.io/)
 
+### Administration
+
+-[Trestle](https://github.com/TrestleAdmin/trestle)
+
 ### E-Commerce
 -[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
 
