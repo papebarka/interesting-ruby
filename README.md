@@ -32,6 +32,9 @@ Repository listing interesting ruby tools for developers
 -[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
 
 ### CMS
+
+-[Alchemy CMS](https://github.com/AlchemyCMS/alchemy_cms) - Headless CMS for Rails.
+
 -[FAE CMS](https://github.com/wearefine/fae) - Content Management System (CMS) for Rails.
 
 -[Locomotive CMS](https://www.locomotivecms.com/)
