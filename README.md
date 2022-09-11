@@ -72,5 +72,7 @@ Repository listing interesting ruby tools for developers
 
 -[Puppeteer](https://github.com/YusukeIwaki/puppeteer-ruby) - Puppeteer port in Ruby
 
+-[Prawmn](https://github.com/prawnpdf/prawn) - Fast PDF writer in Ruby
+
 ## Websites
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
