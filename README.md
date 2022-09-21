@@ -74,5 +74,8 @@ Repository listing interesting ruby tools for developers
 
 -[Prawmn](https://github.com/prawnpdf/prawn) - Fast PDF writer in Ruby
 
+### URLs - Pretty and Human-friendly
+-[FriendlyID](https://github.com/norman/friendly_id) - URLs Slugs and Permalink
+
 ## Websites
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
