@@ -84,6 +84,8 @@ Repository listing interesting ruby tools for developers
 
 -[Fabrication](https://fabricationgem.org/) - simple and powerful object generation for Ruby
 
+-[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
+
 ## Websites
 
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
