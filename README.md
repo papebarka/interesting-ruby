@@ -54,6 +54,7 @@ Repository listing interesting ruby tools for developers
 -[Trestle](https://github.com/TrestleAdmin/trestle)
 
 ### E-Commerce
+
 -[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
 
 -[Spree](https://github.com/spree/spree) - Ruby on Rails Headless E-Commerce Platform.
@@ -63,6 +64,7 @@ Repository listing interesting ruby tools for developers
 -[Shopify](https://www.shopify.com/) - Ruby on Rails E-Commerce SaaS.
 
 ### Charts
+
 -[ApexCharts](https://github.com/styd/apexcharts.rb) - Beautiful and interactive charts for your Rails application powered by ApexCharts.JS
 
 
@@ -75,7 +77,13 @@ Repository listing interesting ruby tools for developers
 -[Prawmn](https://github.com/prawnpdf/prawn) - Fast PDF writer in Ruby
 
 ### URLs - Pretty and Human-friendly
+
 -[FriendlyID](https://github.com/norman/friendly_id) - URLs Slugs and Permalink
 
+### Data & Object Generation
+
+-[Fabrication](https://fabricationgem.org/) - simple and powerful object generation for Ruby
+
 ## Websites
+
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
