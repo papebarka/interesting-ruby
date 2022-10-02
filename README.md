@@ -90,6 +90,9 @@ Repository listing interesting ruby tools for developers
 
 -[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
 
+### Configuration
+
+
 ## Websites
 
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
