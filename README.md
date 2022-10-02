@@ -51,6 +51,10 @@ Repository listing interesting ruby tools for developers
 
 ### Administration
 
+-[Administrate](https://github.com/thoughtbot/administrate) - Rails Administration panel engine with no DSL
+
+-[Motor Admin](https://github.com/motor-admin/motor-admin-rails) - Low-Code Admin Panel and Business Intelligence Rails engine - No DSL
+
 -[Trestle](https://github.com/TrestleAdmin/trestle)
 
 ### E-Commerce
