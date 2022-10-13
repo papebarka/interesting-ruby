@@ -2,6 +2,17 @@
 
 Repository listing interesting ruby tools for developers
 
+## Interesting Websites
+
+-[Ruby Toolbox](https://www.ruby-toolbox.com/)
+
+-[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
+
+## SSG
+
+-[Nanoc](https://nanoc.app/)
+
+
 ## Gems
 
 ### Authentication
@@ -9,6 +20,12 @@ Repository listing interesting ruby tools for developers
 -[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers.
 
 -[Clearance](https://github.com/thoughtbot/clearance)
+
+-[DoorKeeper](https://github.com/doorkeeper-gem/doorkeeper)
+
+-[RodAuth](https://github.com/jeremyevans/rodauth)
+
+-[OmniAuth](https://github.com/omniauth/omniauth)
 
 ### Roles
 
@@ -20,6 +37,11 @@ Repository listing interesting ruby tools for developers
 
 -[Pundit](https://github.com/varvet/pundit)
 
+### API - Calls
+
+-[Excon](https://github.com/excon/excon)
+
+### Pagination
 
 -[Pagy](https://github.com/ddnexus/pagy) - Efficient and lightweight pagination gem.
 
@@ -56,6 +78,14 @@ Repository listing interesting ruby tools for developers
 -[Motor Admin](https://github.com/motor-admin/motor-admin-rails) - Low-Code Admin Panel and Business Intelligence Rails engine - No DSL
 
 -[Trestle](https://github.com/TrestleAdmin/trestle)
+
+-[Rails Admin](https://github.com/railsadminteam/rails_admin)
+
+-[Godmin](https://github.com/varvet/godmin)
+
+### Search
+
+-[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
 
 ### E-Commerce
 
@@ -102,7 +132,3 @@ Repository listing interesting ruby tools for developers
 
 ### Configuration
 
-
-## Websites
-
--[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
