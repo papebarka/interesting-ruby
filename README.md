@@ -84,6 +84,14 @@ Repository listing interesting ruby tools for developers
 
 -[FriendlyID](https://github.com/norman/friendly_id) - URLs Slugs and Permalink
 
+### Tree Structures in Database
+-[Closure Tree](https://github.com/ClosureTree/closure_tree)
+
+-[Ancestry](https://github.com/stefankroes/ancestry)
+
+-[Acts As Tree](https://github.com/amerine/acts_as_tree)
+
+
 ### Data & Object Generation
 
 -[Fabrication](https://fabricationgem.org/) - simple and powerful object generation for Ruby
