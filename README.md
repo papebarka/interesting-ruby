@@ -91,6 +91,8 @@ Repository listing interesting ruby tools for developers
 
 -[Acts As Tree](https://github.com/amerine/acts_as_tree)
 
+-[Awesome Nested Set](https://github.com/collectiveidea/awesome_nested_set)
+
 
 ### Data & Object Generation
 
