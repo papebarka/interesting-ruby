@@ -110,6 +110,8 @@ Repository listing interesting ruby tools for developers
 
 -[Prawmn](https://github.com/prawnpdf/prawn) - Fast PDF writer in Ruby
 
+-[HexaPDF](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
+
 ### URLs - Pretty and Human-friendly
 
 -[FriendlyID](https://github.com/norman/friendly_id) - URLs Slugs and Permalink
