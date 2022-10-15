@@ -6,7 +6,18 @@ Repository listing interesting ruby tools for developers
 
 -[Ruby Toolbox](https://www.ruby-toolbox.com/)
 
--[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.
+-[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.Roda](http://roda.jeremyevans.net/index.html)
+
+
+## Web Frameworks
+
+-[Roda](http://roda.jeremyevans.net/index.html)
+
+-[Hanami](https://hanamirb.org/)
+
+-[Sinatra](https://sinatrarb.com/)
+
+-[Ruby On Rails](https://rubyonrails.org/)
 
 ## SSG
 
