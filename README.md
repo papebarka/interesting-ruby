@@ -64,6 +64,10 @@ Repository listing interesting ruby tools for developers
 
 -[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
 
+### Breadcrumb
+
+-[Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails)
+
 ### CMS
 
 -[Alchemy CMS](https://github.com/AlchemyCMS/alchemy_cms) - Headless CMS for Rails.
@@ -142,6 +146,26 @@ Repository listing interesting ruby tools for developers
 -[Fabrication](https://fabricationgem.org/) - simple and powerful object generation for Ruby
 
 -[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
+
+### Caching
+
+-[Identity Cache](https://github.com/Shopify/identity_cache)
+
+### Assets
+
+-[Asset Sync](https://github.com/AssetSync/asset_sync)
+
+### Scheduling
+
+-[Ice Cube](https://github.com/ice-cube-ruby/ice_cube) - Ruby date recurrence library (Easy creation of recurrent event rules)
+
+
+### Jobs
+
+
+### Security
+
+-[ReCaptacha](https://github.com/ambethia/recaptcha)
 
 ### Configuration
 
