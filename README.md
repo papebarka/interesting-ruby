@@ -30,6 +30,8 @@ Repository listing interesting ruby tools for developers
 
 -[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers.
 
+-[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
+
 -[Clearance](https://github.com/thoughtbot/clearance)
 
 -[DoorKeeper](https://github.com/doorkeeper-gem/doorkeeper)
@@ -56,13 +58,10 @@ Repository listing interesting ruby tools for developers
 
 -[Pagy](https://github.com/ddnexus/pagy) - Efficient and lightweight pagination gem.
 
--[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
+-[Fast Page](https://github.com/planetscale/fast_page)
 
--[Rails-ERD](https://github.com/voormedia/rails-erd) - To generate ER Diagrams of your database.
+-[Kaminari](https://github.com/kaminari/kaminari)
 
--[RailsRoady](https://github.com/preston/railroady) - RailsRoady generates model and controller UML diagrams as .svg files as well as in the DOT language.
-
--[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
 
 ### Breadcrumb
 
@@ -116,6 +115,9 @@ Repository listing interesting ruby tools for developers
 
 -[ApexCharts](https://github.com/styd/apexcharts.rb) - Beautiful and interactive charts for your Rails application powered by ApexCharts.JS
 
+### Validation
+
+-[PhoneLib](https://github.com/daddyz/phonelib) - Phone Number Validation
 
 ### PDF Tools
 
@@ -162,10 +164,26 @@ Repository listing interesting ruby tools for developers
 
 ### Jobs
 
+-[Good Job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+
+### Code
+
+-[DRY Monads](https://github.com/dry-rb/dry-monads)
 
 ### Security
 
 -[ReCaptacha](https://github.com/ambethia/recaptcha)
+
+### UML, ERD & Schema
+
+-[Rails-ERD](https://github.com/voormedia/rails-erd) - To generate ER Diagrams of your database.
+
+-[RailsRoady](https://github.com/preston/railroady) - RailsRoady generates model and controller UML diagrams as .svg files as well as in the DOT language.
+
+### QR Code
+
+-[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
+
 
 ### Configuration
 
