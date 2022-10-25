@@ -50,6 +50,10 @@ Repository listing interesting ruby tools for developers
 
 -[Pundit](https://github.com/varvet/pundit)
 
+### Data
+
+-[Faker](https://github.com/faker-ruby/faker) - A library for generating fake data
+
 ### API - Calls
 
 -[Excon](https://github.com/excon/excon)
