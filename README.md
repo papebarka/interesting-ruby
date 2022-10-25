@@ -54,6 +54,10 @@ Repository listing interesting ruby tools for developers
 
 -[Faker](https://github.com/faker-ruby/faker) - A library for generating fake data
 
+### API - Build
+
+-[Grape](https://github.com/ruby-grape/grape)
+
 ### API - Calls
 
 -[Excon](https://github.com/excon/excon)
