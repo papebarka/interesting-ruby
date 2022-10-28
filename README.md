@@ -192,6 +192,18 @@ Repository listing interesting ruby tools for developers
 
 -[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
 
+### Environment Variable
+
+- Figaro
+
+- Dot-env
+
+### Analytics
+
+- Ahoy
 
 ### Configuration
 
+### Debugging
+
+- Pry
