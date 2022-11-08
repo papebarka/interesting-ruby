@@ -93,6 +93,10 @@ Repository listing interesting ruby tools for developers
 
 -[Avo](https://avohq.io/)
 
+### Page builder
+
+-[Maglev](https://docs.maglev.dev/) - Embedded page builder into Rails application
+
 ### Administration
 
 -[Administrate](https://github.com/thoughtbot/administrate) - Rails Administration panel engine with no DSL
@@ -104,6 +108,8 @@ Repository listing interesting ruby tools for developers
 -[Rails Admin](https://github.com/railsadminteam/rails_admin)
 
 -[Godmin](https://github.com/varvet/godmin)
+
+-[ActiveAdmin](https://activeadmin.info/)
 
 ### Search
 
