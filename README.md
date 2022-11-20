@@ -93,6 +93,8 @@ Repository listing interesting ruby tools for developers
 
 -[Avo](https://avohq.io/)
 
+-[Violet Rails](https://github.com/restarone/violet_rails)
+
 ### Page builder
 
 -[Maglev](https://docs.maglev.dev/) - Embedded page builder into Rails application
