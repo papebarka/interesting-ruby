@@ -50,9 +50,9 @@ Repository listing interesting ruby tools for developers
 
 -[Pundit](https://github.com/varvet/pundit)
 
-### Data
+### Database
 
--[Faker](https://github.com/faker-ruby/faker) - A library for generating fake data
+-[Paranoia](https://github.com/rubysherpas/paranoia) - Soft delete
 
 ### API - Build
 
@@ -164,6 +164,10 @@ Repository listing interesting ruby tools for developers
 -[Fabrication](https://fabricationgem.org/) - simple and powerful object generation for Ruby
 
 -[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
+
+### Formatting
+
+-[Money Rails](https://github.com/RubyMoney/money-rails)
 
 ### Caching
 
