@@ -165,6 +165,8 @@ Repository listing interesting ruby tools for developers
 
 -[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
 
+-[Translate Enum](https://github.com/shlima/translate_enum)
+
 ### Formatting
 
 -[Money Rails](https://github.com/RubyMoney/money-rails)
