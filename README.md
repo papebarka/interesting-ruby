@@ -196,7 +196,9 @@ Repository listing interesting ruby tools for developers
 
 -[ReCaptacha](https://github.com/ambethia/recaptcha)
 
-### UML, ERD & Schema
+### UML, DB/ActiveRecord, ERD & Schema
+
+-[Bullet](https://github.com/flyerhzm/bullet) - To kill N+1 queries
 
 -[Rails-ERD](https://github.com/voormedia/rails-erd) - To generate ER Diagrams of your database.
 
@@ -206,18 +208,29 @@ Repository listing interesting ruby tools for developers
 
 -[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
 
-### Environment Variable
-
-- Figaro
-
-- Dot-env
 
 ### Analytics
 
 - Ahoy
+
+### Internationalization
+
+-[Globalize](https://github.com/globalize/globalize) - Translation for user content generated
+
+
 
 ### Configuration
 
 ### Debugging
 
 - Pry
+
+### Environment Variable
+
+- Figaro
+
+- Dot-env
+
+### Deployment
+
+-[Capistrano](https://github.com/capistrano/capistrano)
