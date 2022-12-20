@@ -113,6 +113,8 @@ Repository listing interesting ruby tools for developers
 
 -[ActiveAdmin](https://activeadmin.info/)
 
+-[Madmin](https://github.com/excid3/madmin)
+
 ### Search
 
 -[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
