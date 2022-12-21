@@ -8,6 +8,25 @@ Repository listing interesting ruby tools for developers
 
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.Roda](http://roda.jeremyevans.net/index.html)
 
+## Language
+
+-[Opal](https://github.com/opal/opal) - Ruby to JS
+
+## AI
+
+-[Ruby Open AI](https://github.com/alexrudall/ruby-openai)
+
+## Frontend Views
+
+-[Phlex](https://www.phlex.fun/)
+
+## Interfaces
+
+-[Roo](https://github.com/roo-rb/roo) - To work with spreadsheets
+
+## Tools
+
+-[Trace Location](https://github.com/yhirano55/trace_location) - Get the source location of libraries
 
 ## Web Frameworks
 
@@ -19,9 +38,16 @@ Repository listing interesting ruby tools for developers
 
 -[Ruby On Rails](https://rubyonrails.org/)
 
+## Meta-framewroks
+
+-[Tonic](https://github.com/subgin/tonic)
+
+-[Smashing](https://smashing.github.io/) - Sinatra-based framework for building dashboard
+
 ## SSG
 
 -[Nanoc](https://nanoc.app/)
+
 
 
 ## Gems
