@@ -195,7 +195,9 @@ Repository listing interesting ruby tools for developers
 
 -[Translate Enum](https://github.com/shlima/translate_enum)
 
-### Formatting
+### Money, Currency
+
+-[Ruby Money](https://github.com/RubyMoney/money)
 
 -[Money Rails](https://github.com/RubyMoney/money-rails)
 
@@ -232,10 +234,11 @@ Repository listing interesting ruby tools for developers
 
 -[RailsRoady](https://github.com/preston/railroady) - RailsRoady generates model and controller UML diagrams as .svg files as well as in the DOT language.
 
-### QR Code
+### QR and Barcode
 
 -[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
 
+-[Barby](https://github.com/toretore/barby) - Barcode generator
 
 ### Analytics
 
