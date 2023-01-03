@@ -149,6 +149,10 @@ Repository listing interesting ruby tools for developers
 
 -[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
 
+### Notifications
+
+-[Noticed](https://github.com/excid3/noticed)
+
 ### E-Commerce
 
 -[Solidus](https://github.com/solidusio/solidus) - Ruby on Rails E-Commerce System.
