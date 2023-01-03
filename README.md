@@ -8,6 +8,10 @@ Repository listing interesting ruby tools for developers
 
 -[Open Source Rails](https://opensourcerails.org/) - Curated list of open-source Ruby On Rails applications.Roda](http://roda.jeremyevans.net/index.html)
 
+## Gem lists
+
+[Planet Ruby Gem List](http://planetruby.github.io/gems/)
+
 ## Language
 
 -[Opal](https://github.com/opal/opal) - Ruby to JS
