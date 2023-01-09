@@ -145,6 +145,18 @@ Repository listing interesting ruby tools for developers
 
 -[Madmin](https://github.com/excid3/madmin)
 
+-[ActiveScaffold](https://github.com/activescaffold/active_scaffold)
+
+-[Upmin](https://github.com/upmin/upmin-admin-ruby)
+
+-[Godmin](https://github.com/varvet/godmin)
+
+-[Wallaby](https://github.com/wallaby-rails/wallaby)
+
+-[Forest Admin](https://github.com/forestadmin/forest-rails)
+
+-[MissionKontrol](https://www.missionkontrol.io/)
+
 ### Search
 
 -[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
@@ -166,6 +178,20 @@ Repository listing interesting ruby tools for developers
 ### Charts
 
 -[ApexCharts](https://github.com/styd/apexcharts.rb) - Beautiful and interactive charts for your Rails application powered by ApexCharts.JS
+
+-[GroupDate](https://github.com/ankane/groupdate)
+
+-[ChartKick](https://github.com/ankane/chartkick)
+
+-[Vega](https://github.com/ankane/vega-ruby)
+
+-[HighTop](https://github.com/ankane/hightop)
+
+-[Active Median](https://github.com/ankane/active_median)
+
+### Business Intelligence
+
+-[Blazer](https://github.com/ankane/blazer/)
 
 ### Validation
 
