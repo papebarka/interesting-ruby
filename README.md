@@ -233,6 +233,10 @@ Repository listing interesting ruby tools for developers
 
 -[Translate Enum](https://github.com/shlima/translate_enum)
 
+### Date and Time
+
+[Time Difference](https://github.com/tmlee/time_difference)
+
 ### Money, Currency
 
 -[Ruby Money](https://github.com/RubyMoney/money)
