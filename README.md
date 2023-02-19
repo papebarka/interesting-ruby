@@ -56,15 +56,18 @@ Repository listing interesting ruby tools for developers
 
 -[Nanoc](https://nanoc.app/)
 
+-[Middleman]
 
 
 ## Gems
 
 ### Authentication
 
--[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers.
+-[Authentication-Zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications
 
--[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features.
+-[Sorcery](https://github.com/Sorcery/sorcery) - Simple and easy authentication for Rails. Easy customization for developers
+
+-[Devise](https://github.com/heartcombo/devise) - Another authentication solution for Rails with more features
 
 -[Clearance](https://github.com/thoughtbot/clearance)
 
