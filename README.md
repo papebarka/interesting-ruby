@@ -234,6 +234,8 @@ Repository listing interesting ruby tools for developers
 
 -[Faker](https://github.com/faker-ruby/faker) - Library for generating fake data
 
+-[Has Placeholder Image](https://github.com/buck-ai/has_placeholder_image) - Tools to generate placeholder image
+
 -[Translate Enum](https://github.com/shlima/translate_enum)
 
 ### Date and Time
