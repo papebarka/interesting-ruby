@@ -58,6 +58,14 @@ Repository listing interesting ruby tools for developers
 
 -[Middleman]
 
+-[BridgeTown]
+
+-[Jekyll]
+
+-[High-Voltage](https://github.com/thoughtbot/high_voltage) - Static Site Generator for Rails Apps
+
+-[Frontman](https://github.com/algolia/frontman)
+
 
 ## Gems
 
