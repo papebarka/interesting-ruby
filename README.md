@@ -85,6 +85,8 @@ Repository listing interesting ruby tools for developers
 
 -[OmniAuth](https://github.com/omniauth/omniauth)
 
+-[Authie](https://github.com/adamcooke/authie) - Session Storage in the Database
+
 ### Roles
 
 -[Rolify](https://github.com/RolifyCommunity/rolify)
@@ -98,6 +100,8 @@ Repository listing interesting ruby tools for developers
 ### Database
 
 -[Paranoia](https://github.com/rubysherpas/paranoia) - Soft delete
+
+-[MiniSQL](https://github.com/discourse/mini_sql) - Minimal and safe SQL executor
 
 ### API - Build
 
