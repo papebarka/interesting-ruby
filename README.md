@@ -176,6 +176,8 @@ Repository listing interesting ruby tools for developers
 
 -[MissionKontrol](https://www.missionkontrol.io/)
 
+[BHF](https://github.com/antpaw/bhf/)
+
 ### Search
 
 -[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
