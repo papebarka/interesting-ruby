@@ -66,6 +66,9 @@ Repository listing interesting ruby tools for developers
 
 -[Frontman](https://github.com/algolia/frontman)
 
+## Best Practices
+
+-[Production Rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production
 
 ## Gems
 
@@ -102,6 +105,10 @@ Repository listing interesting ruby tools for developers
 -[Paranoia](https://github.com/rubysherpas/paranoia) - Soft delete
 
 -[MiniSQL](https://github.com/discourse/mini_sql) - Minimal and safe SQL executor
+
+### State Machine
+
+-[Statesman](https://github.com/gocardless/statesman)
 
 ### API - Build
 
