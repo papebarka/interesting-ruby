@@ -219,6 +219,10 @@ Repository listing interesting ruby tools for developers
 
 -[Active Median](https://github.com/ankane/active_median)
 
+### Auction
+
+-[Auctify](https://github.com/sinfin/auctify)
+
 ### Business Intelligence
 
 -[Blazer](https://github.com/ankane/blazer/)
