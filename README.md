@@ -343,6 +343,9 @@ Repository listing interesting ruby tools for developers
 -[Globalize](https://github.com/globalize/globalize) - Translation for user content generated
 
 
+### Multi-Tenancy
+
+-[ActsAsTenant](https://github.com/ErwinM/acts_as_tenant)
 
 ### Configuration
 
