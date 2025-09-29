@@ -191,6 +191,13 @@ Repository listing interesting ruby tools for developers
 
 -[Meilisearch Rails](https://github.com/meilisearch/meilisearch-rails)
 
+-[PG Search](https://github.com/Casecommons/pg_search) - Pg Search for rails
+
+-[Ransack](https://github.com/activerecord-hackery/ransack) - Object-based Searching for Rails
+
+-[SearchKick](https://github.com/ankane/searchkick) - Intelligent Search Made Easy
+
+
 ### Notifications
 
 -[Noticed](https://github.com/excid3/noticed)
@@ -240,6 +247,11 @@ Repository listing interesting ruby tools for developers
 -[Prawmn](https://github.com/prawnpdf/prawn) - Fast PDF writer in Ruby
 
 -[HexaPDF](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby
+
+-[Receipts](https://github.com/excid3/receipts/) - Easy receipts and invoices for your Ruby on Rails applications
+
+-[FerrumPDF](https://github.com/excid3/ferrum_pdf) - Ferrum PDF HTML to PDF
+
 
 ### URLs - Pretty and Human-friendly
 
@@ -313,6 +325,14 @@ Repository listing interesting ruby tools for developers
 -[RQRCode](https://github.com/whomwah/rqrcode) - A Ruby gem for creating and rendering QR codes in various formats.
 
 -[Barby](https://github.com/toretore/barby) - Barcode generator
+
+### Data Generation
+
+-[Make Exportable](https://github.com/novafabrica/make_exportable) - Multiple Formats Exports
+
+-[AXLSX](https://github.com/randym/axlsx) - XLSX Generation with Charts, Images
+
+-[Datashift](https://github.com/autotelik/datashift) - Full Excel/CSV Export/Import Capabilities for Rails
 
 ### Analytics
 
