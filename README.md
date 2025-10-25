@@ -347,6 +347,18 @@ Repository listing interesting ruby tools for developers
 
 -[ActsAsTenant](https://github.com/ErwinM/acts_as_tenant)
 
+- apartment
+
+### Logging
+
+lograge
+
+### Audit Trail
+
+[Audited](https://github.com/BemiHQ/bemi-rails)
+
+[Bemi](https://github.com/BemiHQ/bemi-rails)
+
 ### Configuration
 
 ### Debugging
