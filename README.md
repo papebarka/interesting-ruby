@@ -197,6 +197,10 @@ Repository listing interesting ruby tools for developers
 
 -[SearchKick](https://github.com/ankane/searchkick) - Intelligent Search Made Easy
 
+### Misc
+
+-[ActiveLink_To](https://github.com/comfy/active_link_to)
+
 
 ### Notifications
 
