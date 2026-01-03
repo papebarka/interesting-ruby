@@ -131,6 +131,8 @@ Repository listing interesting ruby tools for developers
 
 -[Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails)
 
+-[Breadcrumbs](https://github.com/fnando/breadcrumbs)
+
 ### CMS
 
 -[Alchemy CMS](https://github.com/AlchemyCMS/alchemy_cms) - Headless CMS for Rails.
