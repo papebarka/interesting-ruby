@@ -338,6 +338,10 @@ Repository listing interesting ruby tools for developers
 
 -[Datashift](https://github.com/autotelik/datashift) - Full Excel/CSV Export/Import Capabilities for Rails
 
+### Icons
+
+-[LucideRails](https://github.com/heyvito/lucide-rails)
+
 ### Analytics
 
 - Ahoy
