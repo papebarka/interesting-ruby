@@ -72,6 +72,17 @@ Repository listing interesting ruby tools for developers
 
 ## Gems
 
+### Monitoring
+
+#### Performance
+
+-[PgHero](https://github.com/ankane/pghero) - A Performance dashboard for Postgres
+
+
+### Feature Flags
+
+-[superfeature](https://github.com/rubymonolith/superfeature) - A feature flag Rails plugin gem that works for simple one-person Rails apps all the way up to large enterprise rails apps
+
 ### Authentication
 
 -[Authentication-Zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications
@@ -346,7 +357,7 @@ Repository listing interesting ruby tools for developers
 
 ### Analytics
 
-- Ahoy
+- [Ahoy](https://github.com/ankane/ahoy)
 
 ### Internationalization
 
