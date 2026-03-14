@@ -168,6 +168,10 @@ Repository listing interesting ruby tools for developers
 
 -[Maglev](https://docs.maglev.dev/) - Embedded page builder into Rails application
 
+### Dashboard
+
+[Dashboards](https://github.com/rameerez/dashboards) - Bento-style dashboard
+
 ### Administration
 
 [IronAdmin](https://github.com/rubylab-app/iron_admin?tab=readme-ov-file) - Convention Over Configuration Admin Panel for Rails
