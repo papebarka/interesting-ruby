@@ -170,6 +170,8 @@ Repository listing interesting ruby tools for developers
 
 ### Administration
 
+[IronAdmin](https://github.com/rubylab-app/iron_admin?tab=readme-ov-file) - Convention Over Configuration Admin Panel for Rails
+
 [Administration Zero](https://github.com/lazaronixon/administration-zero) - Admin made simple
 
 [Madmin](https://github.com/excid3/madmin) - Simple Admin with ActionText & ActiveStorage supports
